@@ -1,0 +1,16 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    .phase2home{display: flex;flex-direction: row;}
+    .right{position: relative;left: 3%;}
+.phasebox{
+    background-color: rgb(216, 173, 116);
+    width: 400px;
+    height: 400px;
+}
+.phase2image{ position: absolute;
+    top: 10%;
+    left: 4%;
+    width: 400px;
+height: 400px;}
+.left{margin-left: 10%;}
